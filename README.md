@@ -3,7 +3,6 @@
 **Lead Software Engineer | iOS | React Native | Flutter | AWS Certified CCP**  
 📍 Ahmedabad, Gujarat, India  
 📧 [jaimin.1489@gmail.com](mailto:jaimin.1489@gmail.com)  
-📞 +91 89800 89807  
 🔗 [LinkedIn Profile](https://linkedin.com/in/itsmejaiminmodi)
 
 ---
@@ -123,8 +122,10 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 
 ## 📜 Certifications
 
-- **AWS Certified Cloud Practitioner - ![CLF02](/assets/img/aws_ccp.png)** — *Sep 2024 – Sep 2027* 
-- **Generative AI – ![AWS Partner](/assets/img/aws_generative_ai.png)** — *Apr 2024*
+- **AWS Certified Cloud Practitioner** — *Sep 2024 – Sep 2027* 
+ ![CLF02](/assets/img/aws_ccp.png)
+- **Generative AI** — *Apr 2024*
+ ![AWS Partner](/assets/img/aws_generative_ai.png)
 - **eChai Competition Winner** — *Jan 2014, IIM Ahmedabad*
 - **PHP Certification – Aptech** — *2011*
 - **Advanced Java – C-DAC/GIST** — *2010*
