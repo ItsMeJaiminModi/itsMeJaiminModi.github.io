@@ -115,7 +115,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 - Firebase, Sentry, BugSnag, Instabug, SmartLook
 
 ### Notifications & Deep Linking
-- OneSignal, Branch.io
+- OneSignal, Branch.io, Firebase Deeplink
 
 ### Programming Languages
 - Swift, SwiftUI, Objective-C, JavaScript, Dart
