@@ -16,19 +16,19 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ## 💼 Professional Experience
 
 ### **Lead Software Engineer**  
-**Tech Holding Pvt Ltd** — *Ahmedabad*  
+**[Tech Holding Pvt Ltd](https://www.techholding.co/)** — *Ahmedabad*  
 📅 *April 2019 – Present*
 
 - Increased app engagement by 20% with new iOS features.
 - Built Warner Bros app in React Native – improved retention by 35%.
-- Migrated Therabody app from RN to native iOS; reached 200k+ users in 24h.
+- Migrated Therabody app from ReactNative to native iOS; reached 200k+ users in 24h.
 - Developed MprooV app – gained 15k users in 3 months.
 - Mentored developers, reducing onboarding time by 30%.
 
 ---
 
 ### **Team Lead**  
-**EcosMob Technologies Pvt Ltd (HoduSoft Pvt Ltd)** — *Ahmedabad*  
+**[EcosMob Technologies Pvt Ltd (HoduSoft Pvt Ltd)](https://www.ecosmob.com/)** — *Ahmedabad*  
 📅 *May 2016 – Feb 2019*
 
 - Built & led mobile team, improving delivery speed by 20%.
@@ -38,7 +38,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ### **Software Engineer**  
-**Verve Systems Pvt Ltd** — *Ahmedabad*  
+**[Verve Systems Pvt Ltd](https://www.vervesys.com/)** — *Ahmedabad*  
 📅 *Apr 2015 – Apr 2016*
 
 - Led HealthJump project, increasing patient engagement by 20%.
@@ -47,7 +47,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ### **iOS Developer**  
-**Navigators Software Pvt Ltd** — *Ahmedabad*  
+**[Navigators Software Pvt Ltd](https://www.thenavsoft.com/)** — *Ahmedabad*  
 📅 *Jun 2014 – Apr 2015*
 
 - Developed SIP-based audio/video calling app – boosted usage by 30%.
@@ -56,7 +56,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ### **iOS Developer**  
-**Krish Compusoft Technologies Pvt Ltd (Rysun Labs)** — *Ahmedabad*  
+**[Krish Compusoft Technologies Pvt Ltd (Rysun Labs)](https://www.kcsitglobal.com/)** — *Ahmedabad*  
 📅 *Jan 2013 – May 2014*
 
 - Created AR app using Vuforia – improved interaction by 20%.
@@ -65,7 +65,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ### **iOS Developer**  
-**Addon Solutions Pvt Ltd** — *Ahmedabad*  
+**[Addon Solutions Pvt Ltd](https://www.addonsolutions.com/)** — *Ahmedabad*  
 📅 *Jul 2011 – Dec 2012*
 
 - Delivered 14+ apps to the App Store.
@@ -74,33 +74,35 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ## 📱 Projects
-- **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - 18+ AI based chat app.
+- **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - *Flutter* - 18+ AI based chat app. 
   🧙 Helped and created a private repository for an AR-based facial mask for a Flutter application, improved user engagement by 35%.
   
-- **[WeatherWear](https://apps.apple.com/us/app/weather-wear/id6741139764)** – Weather-based outfit planning app.  
+- **[WeatherWear](https://apps.apple.com/us/app/weather-wear/id6741139764)** – *Flutter* - Weather-based AI based outfit planning app.
   📈 Increased engagement by 35%, retention by 20%.
 
-- **[MprooV](https://apps.apple.com/us/app/mproov/id1572340182)** – Self-improvement education app.  
+- **[MprooV](https://apps.apple.com/us/app/mproov/id1572340182)** – *React Native* - Self-improvement education app.  
   🎓 Boosted school content purchases by 25%.
 
-- **[Therabody (Theragun)](https://apps.apple.com/us/app/theragun/id1445611295)** – BLE-enabled wellness app.  
+- **[Therabody (Theragun)](https://apps.apple.com/us/app/theragun/id1445611295)** – *iOS Native* - BLE-enabled wellness app.  
   📉 Reduced load time by 40%, enhanced BLE integration.
 
-- **[Wizarding World (Harry Potter Fan Club)](https://apps.apple.com/us/app/wizarding-world/id1427926466)** – Harry Potter fan app.  
+- **[Wizarding World (Harry Potter Fan Club)](https://apps.apple.com/us/app/wizarding-world/id1427926466)** – *React Native* - Harry Potter fan app.  
   🧙 Improved content delivery via Contentful by 25%.
 
-- **[MyEdu](https://itunes.apple.com/us/app/myedu/id1025665835?ls=1&mt=8)** – Native iOS white-label solution for education.  
+- **[MyEdu](https://itunes.apple.com/us/app/myedu/id1025665835?ls=1&mt=8)** – *iOS Native* - white-label solution for education.  
   📚 Increased user engagement by 40%.
 
-- **[HoduConf](https://itunes.apple.com/us/app/hoduconf/id1198480454?ls=1&mt=8) & [HoduPhone](https://itunes.apple.com/us/app/hoduphone/id1054379118?ls=1&mt=8)** – VoIP conferencing apps.  
+- **[HoduConf](https://itunes.apple.com/us/app/hoduconf/id1198480454?ls=1&mt=8) & [HoduPhone](https://itunes.apple.com/us/app/hoduphone/id1054379118?ls=1&mt=8)** – *iOS Native* - VoIP conferencing apps.  
   📞 Improved call quality & reduced latency by 20%.
+
+- *20+ and more through out the carreer*.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Mobile Development
-- BLE, RiverPod, VoIP, NGNStack, XMPP
+- BLE, RiverPod, VoIP, Linphone, NGNStack, XMPP
 - White Label, Multi-Target, AWS (S3, Parameter Store)
 
 ### Payments & In-App Purchases
