@@ -74,8 +74,8 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ## 📱 Projects
-- **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - *Flutter* - 18+ AI based chat app. 
-  🧙 Helped and created a private repository for an AR-based facial mask for a Flutter application, improved user engagement by 35%.
+- **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - *Flutter* - 18+ AI based chat app.  
+   🧙 Helped and created a private repository for an AR-based facial mask for a Flutter application, improved user engagement by 35%.
   
 - **[WeatherWear](https://apps.apple.com/us/app/weather-wear/id6741139764)** – *Flutter* - Weather-based AI based outfit planning app.
   📈 Increased engagement by 35%, retention by 20%.
@@ -95,7 +95,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 - **[HoduConf](https://itunes.apple.com/us/app/hoduconf/id1198480454?ls=1&mt=8) & [HoduPhone](https://itunes.apple.com/us/app/hoduphone/id1054379118?ls=1&mt=8)** – *iOS Native* - VoIP conferencing apps.  
   📞 Improved call quality & reduced latency by 20%.
 
-- *20+ and more through out the carreer*.
+- *Many more applications have been developed and made available on App Store, throughout my career.*.
 
 ---
 
