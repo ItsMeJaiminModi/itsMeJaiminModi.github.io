@@ -15,9 +15,24 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 
 ## 💼 Professional Experience
 
+### **Technical Lead - Mobile Software Engineering - SaaS**
+**[Xplor Technologies](https://www.xplor.com/)** — *Pune*  
+📅 *Jun 2025 – Present*
+
+- Leading engineering for three enterprise mobile applications: **DCM, CM, and CCM**.
+- Driving the migration from **Xamarin to React Native**, improving scalability and maintainability.
+- Leading architecture, code reviews, release management, and production support.
+- Managing end-to-end releases, ensuring timely and high-quality deliveries.
+- Leading **Sprint Planning, Backlog Refinement, Daily Scrums, Sprint Reviews, and Retrospectives**.
+- Partnering with Product teams to define priorities, plan roadmaps, and deliver customer-focused features.
+- Mentoring engineers and promoting engineering best practices across the team.
+- Reducing cross-team dependencies to improve delivery speed and execution quality.
+
+---
+
 ### **Lead Software Engineer**  
 **[Tech Holding Pvt Ltd](https://www.techholding.co/)** — *Ahmedabad*  
-📅 *April 2019 – Present*
+📅 *April 2019 – Feb 20225*
 
 - Increased app engagement by 20% with new iOS features.
 - Built Warner Bros app in React Native – improved retention by 35%.
@@ -74,10 +89,16 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 ---
 
 ## 📱 Projects
+- **[Delivery Connect Mobile Xplor](https://apps.apple.com/us/app/delivery-connect-mobile-xplor/id1222103653)** – *React Native* - Driver uses our electronic manifest to assist in the delivery and pickup process.  
+  📈 Increased engagement by 35%, retention by 20%.
+
+- **[Connect Mobile Xplor](https://apps.apple.com/us/app/delivery-connect-mobile-xplor/id1222103653)** – *React Native* - making it easy to manage production workflows on the go.    
+  📉 Reduced engagement time to manage production workflows on the go.  
+  
 - **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - *Flutter* - 18+ AI based chat app.  
    🧙 Helped and created a private repository for an AR-based facial mask for a Flutter application, improved user engagement by 35%.
   
-- **[WeatherWear](https://apps.apple.com/us/app/weather-wear/id6741139764)** – *Flutter* - Weather-based AI based outfit planning app.
+- **[WeatherWear](https://apps.apple.com/us/app/weather-wear/id6741139764)** – *Flutter* - Weather-based AI based outfit planning app.  
   📈 Increased engagement by 35%, retention by 20%.
 
 - **[MprooV](https://apps.apple.com/us/app/mproov/id1572340182)** – *React Native* - Self-improvement education app.  
