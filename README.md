@@ -92,7 +92,7 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 - **[Delivery Connect Mobile Xplor](https://apps.apple.com/us/app/delivery-connect-mobile-xplor/id1222103653)** – *React Native* - Driver uses our electronic manifest to assist in the delivery and pickup process.  
   📈 Increased engagement by 35%, retention by 20%.
 
-- **[Connect Mobile Xplor](https://apps.apple.com/us/app/delivery-connect-mobile-xplor/id1222103653)** – *React Native* - making it easy to manage production workflows on the go.    
+- **[Connect Mobile Xplor](https://apps.apple.com/us/app/connect-mobile-xplor/id1450645626)** – *React Native* - making it easy to manage production workflows on the go.    
   📉 Reduced engagement time to manage production workflows on the go.  
   
 - **[Wunderland](https://apps.apple.com/us/app/wunderland/id6502531969)** - *Flutter* - 18+ AI based chat app.  
