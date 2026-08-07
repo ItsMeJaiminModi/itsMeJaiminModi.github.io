@@ -145,9 +145,9 @@ Experienced Lead Engineer with 13+ years in iOS development, React Native, and F
 
 ## 📜 Certifications
 
-- **AWS Certified Cloud Practitioner** — *Sep 2024 – Sep 2027* 
+- **AWS Certified Cloud Practitioner** — *Sep 2024 – Sep 2027*  
  ![CLF02](/assets/img/aws_ccp.png)
-- **Generative AI** — *Apr 2024*
+- **Generative AI** — *Apr 2024*  
  ![AWS Partner](/assets/img/aws_generative_ai.png)
 - **eChai Competition Winner** — *Jan 2014, IIM Ahmedabad*
 - **PHP Certification – Aptech** — *2011*
