@@ -23,7 +23,7 @@ Experienced Technical Lead - Mobile Software Engineering with 14+ years in SaaS,
 - Leading engineering for three enterprise mobile applications: **DCM, CM, and CCM**.
 - Driving the migration from **Xamarin to React Native**, improving scalability and maintainability.
 - Leading architecture, code reviews, release management, and production support.
-- Managing end-to-end releases, ensuring timely and high-quality deliveries.
+- Managing end-to-end releases, ensuring timely and high-quality **deliveries on AppStore and PlayStore**.
 - Leading **Sprint Planning, Backlog Refinement, Daily Scrums, Sprint Reviews, and Retrospectives**.
 - Partnering with Product teams to define priorities, plan roadmaps, and deliver customer-focused features.
 - Mentoring engineers and promoting engineering best practices across the team.
@@ -33,7 +33,7 @@ Experienced Technical Lead - Mobile Software Engineering with 14+ years in SaaS,
 
 ### **Lead Software Engineer**  
 **[Tech Holding Pvt Ltd](https://www.techholding.co/)** — *Ahmedabad*  
-📅 *April 2019 – Feb 20225*
+📅 *April 2019 – Feb 2025*
 
 - Increased app engagement by 20% with new iOS features.
 - Built Warner Bros app in React Native – improved retention by 35%.
