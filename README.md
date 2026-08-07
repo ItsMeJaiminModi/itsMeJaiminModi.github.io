@@ -1,7 +1,8 @@
 # Jaimin Modi
 
-**Lead Software Engineer | iOS | React Native | Flutter | AWS Certified CCP**  
+**Technical Lead - Mobile Software Engineering - SaaS | iOS | React Native | Flutter | AWS Certified CCP**  
 📍 Ahmedabad, Gujarat, India  
+🏢 Pune, Maharashtra, India (Hybrid)  
 📧 [jaimin.1489@gmail.com](mailto:jaimin.1489@gmail.com)  
 🔗 [LinkedIn Profile](https://linkedin.com/in/itsmejaiminmodi)
 
@@ -9,7 +10,7 @@
 
 ## 🧑‍💻 Summary
 
-Experienced Lead Engineer with 13+ years in iOS development, React Native, and Flutter. Specializes in building scalable mobile applications, Bluetooth integration, VoIP, healthcare, and social platforms. Proven track record in mentoring teams, solving complex technical problems, and optimizing performance. AWS Certified Cloud Practitioner.
+Experienced Technical Lead - Mobile Software Engineering with 14+ years in SaaS, iOS development, React Native, and Flutter. Specializes in building scalable mobile applications, Bluetooth integration, VoIP, healthcare, and social platforms. Proven track record in mentoring teams, solving complex technical problems, and optimizing performance. AWS Certified Cloud Practitioner.
 
 ---
 
